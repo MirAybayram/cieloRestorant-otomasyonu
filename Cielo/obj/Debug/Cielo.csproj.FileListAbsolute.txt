@@ -1,0 +1,319 @@
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\Cielo.exe.config
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\Cielo.exe
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\EntityFramework.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\EnvDTE.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\stdole.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\EntityFramework.xml
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.csproj.AssemblyReference.cache
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.csproj.SuggestedBindingRedirects.cache
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.FrmAyarlar.resources
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.Frmgiris.resources
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.FrmKasaIslem.resources
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.FrmMasalar.resources
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.FrmMenu.resources
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.FrmMusteri.resources
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.FrmMusteriEkle.resources
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.FrmMutfak.resources
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.FrmRapor.resources
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.FrmRezervasyon.resources
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.FrmSiparis.resources
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.FrmSiparisBil.resources
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.Properties.Resources.resources
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.csproj.GenerateResource.cache
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.csproj.CoreCompileInputs.cache
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.csproj.CopyComplete
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.exe
+C:\Users\duygu\Desktop\Kopya cielo\Cielo\obj\Debug\Cielo.pdb
+D:\asiill\Kopya cielo\Cielo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\Cielo.exe.config
+D:\asiill\Kopya cielo\Cielo\bin\Debug\Cielo.exe
+D:\asiill\Kopya cielo\Cielo\bin\Debug\Cielo.pdb
+D:\asiill\Kopya cielo\Cielo\bin\Debug\EntityFramework.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\EntityFramework.SqlServer.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\EnvDTE.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\stdole.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\EntityFramework.xml
+D:\asiill\Kopya cielo\Cielo\bin\Debug\EntityFramework.SqlServer.xml
+D:\asiill\Kopya cielo\Cielo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\asiill\Kopya cielo\Cielo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.csproj.AssemblyReference.cache
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.csproj.SuggestedBindingRedirects.cache
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.FrmAyarlar.resources
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.Frmgiris.resources
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.FrmKasaIslem.resources
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.FrmMasalar.resources
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.FrmMenu.resources
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.FrmMusteri.resources
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.FrmMusteriEkle.resources
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.FrmMutfak.resources
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.FrmRapor.resources
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.FrmRezervasyon.resources
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.FrmSiparis.resources
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.FrmSiparisBil.resources
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.Properties.Resources.resources
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.csproj.GenerateResource.cache
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.csproj.CoreCompileInputs.cache
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.csproj.CopyComplete
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.exe
+D:\asiill\Kopya cielo\Cielo\obj\Debug\Cielo.pdb
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\Cielo.exe.config
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\Cielo.exe
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\Cielo.pdb
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\EntityFramework.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\EnvDTE.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\stdole.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\EntityFramework.xml
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.csproj.AssemblyReference.cache
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmAyarlar.resources
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.Frmgiris.resources
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmKasaIslem.resources
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmMasalar.resources
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmMenu.resources
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmMusteri.resources
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmMusteriEkle.resources
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmMutfak.resources
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmRapor.resources
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmRezervasyon.resources
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmSiparis.resources
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmSiparisBil.resources
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.Properties.Resources.resources
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.csproj.GenerateResource.cache
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.csproj.CoreCompileInputs.cache
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.csproj.CopyComplete
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.exe
+C:\Users\Miray\Desktop\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.pdb
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.csproj.AssemblyReference.cache
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmAyarlar.resources
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.Frmgiris.resources
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmKasaIslem.resources
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmMasalar.resources
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmMenu.resources
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmMusteri.resources
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmMusteriEkle.resources
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmMutfak.resources
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmRapor.resources
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmRezervasyon.resources
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmSiparis.resources
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.FrmSiparisBil.resources
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.Properties.Resources.resources
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.csproj.GenerateResource.cache
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.csproj.CoreCompileInputs.cache
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.exe
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.pdb
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\Cielo.exe.config
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\Cielo.exe
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\Cielo.pdb
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\EntityFramework.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\EnvDTE.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\stdole.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\EntityFramework.xml
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miray\Desktop\DERS\asiill\Gorsel3Proje\Cielo\obj\Debug\Cielo.csproj.CopyComplete
